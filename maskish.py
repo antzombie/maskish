@@ -15,8 +15,8 @@ SSS     S*S  SSS    S*S  YSS'    S*S     SS  S*S  YSS'    SSS    S*S
         SP          SP           SP          SP                  SP
         Y           Y            Y           Y                   Y
                           [ Maskish By Ase3p ]
-           [ Don't Use For Illigal Activity Blah Blah Blah ]
-          [ Not My Responsibility Yada Yada You Get The Gist]''')
+               [ Please Do not Use For Illigal Activity ]
+             [ Any illegal usage is not My Responsibility ]''')
 phishing_domain = input("\nEnter Url To Mask: ")
 print("\nExamples: https://twitter.com, http://insecure-site.org")
 print("Warning: Fake Domain Cannot Have Forward Slash At The End")
