@@ -14,7 +14,7 @@ S*S     S*S  S*S    S*S  sSS*S   S*S     S&  S*S  sSS*S   S*S    S*S
 SSS     S*S  SSS    S*S  YSS'    S*S     SS  S*S  YSS'    SSS    S*S
         SP          SP           SP          SP                  SP
         Y           Y            Y           Y                   Y
-                          [ Maskish By malentent ]
+                          [ Maskish By melentent ]
                [ Please Do not Use For Illigal Activity ]
              [ Any illegal usage is not My Responsibility ]''')
 phishing_domain = input("\nEnter Url To Mask: ")
