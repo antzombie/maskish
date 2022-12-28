@@ -4,7 +4,7 @@
 A Phishing link masker made in python
 ## Setup
 ~~~bash
-git clone https://github.com/malentent/maskish
+git clone https://github.com/antzombie/maskish
 cd maskish
 ~~~
 ## Usage
